@@ -7,8 +7,8 @@
     <ProjectGuid>{011B9570-1170-4E8C-9A1B-5458B26D1298}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>db_helper_classes</RootNamespace>
-    <AssemblyName>db-helper-classes</AssemblyName>
+    <RootNamespace>StringFunctions</RootNamespace>
+    <AssemblyName>StringFunctions</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="StringFunctions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
